@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Skocko", "Skocko\Skocko.vcxproj", "{84932904-29D0-42C5-9A23-310881E0F964}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84932904-29D0-42C5-9A23-310881E0F964}.Debug|x64.ActiveCfg = Debug|x64
+		{84932904-29D0-42C5-9A23-310881E0F964}.Debug|x64.Build.0 = Debug|x64
+		{84932904-29D0-42C5-9A23-310881E0F964}.Debug|x86.ActiveCfg = Debug|Win32
+		{84932904-29D0-42C5-9A23-310881E0F964}.Debug|x86.Build.0 = Debug|Win32
+		{84932904-29D0-42C5-9A23-310881E0F964}.Release|x64.ActiveCfg = Release|x64
+		{84932904-29D0-42C5-9A23-310881E0F964}.Release|x64.Build.0 = Release|x64
+		{84932904-29D0-42C5-9A23-310881E0F964}.Release|x86.ActiveCfg = Release|Win32
+		{84932904-29D0-42C5-9A23-310881E0F964}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C94E2EC-96BA-49DF-BB43-8C7818C6DF1B}
+	EndGlobalSection
+EndGlobal
